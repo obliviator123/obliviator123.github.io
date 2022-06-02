@@ -9,14 +9,7 @@
 @import url('https://fonts.googleapis.com/css?family=Lato:300,400,700');
 
 background-color:#ffe799;
-background-image:
-radial-gradient(at 9% 33%, hsla(94,78%,71%,1) 0px, transparent 50%),
-radial-gradient(at 66% 7%, hsla(202,92%,70%,1) 0px, transparent 50%),
-radial-gradient(at 65% 13%, hsla(228,91%,75%,1) 0px, transparent 50%),
-radial-gradient(at 76% 16%, hsla(181,71%,72%,1) 0px, transparent 50%),
-radial-gradient(at 83% 68%, hsla(161,76%,74%,1) 0px, transparent 50%),
-radial-gradient(at 93% 95%, hsla(325,78%,68%,1) 0px, transparent 50%),
-radial-gradient(at 1% 13%, hsla(77,72%,70%,1) 0px, transparent 50%);
+
 
 
 /* Reset Styles */
